@@ -1,0 +1,51 @@
+div {
+    background-color: black;
+    text-indent: 20px;
+}
+
+div .white {
+    background-color: black;
+    color: white;
+    font-family: cursive;
+    font-size: 60px;
+    font-weight: bold;
+    height: 90px;
+    line-height: 90px;
+}
+div .blue {
+    background-color: black;
+    color: rgb(0,255,255);
+    font-family: cursive;
+    font-size: 60px;
+    font-weight: bold;
+    height: 90px;
+    line-height: 90px;
+}
+
+h2 {
+    background-color: rgb(102,51,153);
+    color: white;
+    height: 80px;
+    line-height: 80px;
+    text-align: center;
+    font-family: cursive;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 40px;  
+    margin-top: 10px;
+    margin-bottom: 10px;    
+}
+h3 {
+    background-color: rgb(159,197,248);
+    color: black;
+    height: 70px;
+    line-height: 70px;
+    
+    font-family: cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;  
+    text-decoration: underline;
+    margin-top: 0px;
+    text-indent: 88%;
+}
